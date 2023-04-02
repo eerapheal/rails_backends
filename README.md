@@ -21,12 +21,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Ebube App <a name="about-project"></a>
+# 📖 rails React <a name="about-project"></a>
 
 # 📖 Description <a name="Description-Note"></a>
 > Describe your project in 1 or 3 sentences.
 
-Booking application
+This is two repo application with Cors 
 
 ## Project presentation link
 
@@ -44,8 +44,7 @@ Booking application
 
 ### Key Features <a name="key-features"></a>
 
-- Sign up new user
-- book appointment
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,13 +91,6 @@ To start the application, run the following command
 ```
 rails server
 ```
-### Run tests 
-```
-rspec
-```
-### Usage
-
-To run the project, run `ruby <filename>` in your terminal
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,8 +111,7 @@ To run the project, run `ruby <filename>` in your terminal
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Set up payment stytem**
-- **Add UI**
+- Two repo connention
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

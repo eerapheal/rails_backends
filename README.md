@@ -28,13 +28,7 @@
 
 This is two repo application with Cors 
 
-## Project presentation link
 
-[Presentation of APP](Cooming soom)
-
-# Live Demo Application link
-
-[Live Demo](Comming soon)
 
 ## 🛠️ Built With <a name="built-with"></a>
 

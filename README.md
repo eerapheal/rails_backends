@@ -244,7 +244,7 @@ I would like to thank everyone that helped me to get here.
 
 - **[can i use this code]**
 
-  - [Yes, is IMT License]
+  - [Yes, is MIT License]
 
 - **[how can i get the front end repo link]**
 

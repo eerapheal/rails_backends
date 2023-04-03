@@ -248,7 +248,7 @@ I would like to thank everyone that helped me to get here.
 
 - **[how can i get the front end repo link]**
 
-  - [kindly click here]{https://github.com/eerapheal/frontends/}
+  - [kindly click here](https://github.com/eerapheal/frontends/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,6 +256,6 @@ I would like to thank everyone that helped me to get here.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/eerapheal/rails_backends/blob/Development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

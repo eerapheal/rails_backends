@@ -1,53 +1,111 @@
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠️ Built With](#built-with)
+  - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐ Show your support](#support)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Ebube App <a name="about-project"></a>
+# 📖 [Hello world] <a name="about-project"></a>
 
-# 📖 Description <a name="Description-Note"></a>
-> Describe your project in 1 or 3 sentences.
 
-Booking application
+**[Hello world]** is a project which the frontend is build with React and backend with Rails
 
-## Project presentation link
+## 🛠 Built With <a name="built-with"></a>
+Ruby on Rails.
+React
 
-[Presentation of APP](Cooming soom)
+### Tech Stack <a name="tech-stack"></a>
+Ruby on Rails.
+React/Redux.
+Cors.
+Webpack
 
-# Live Demo Application link
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-[Live Demo](Comming soon)
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
 
-## 🛠️ Built With <a name="built-with"></a>
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-- Ruby on Rails
-- Postgresql
-- React/Redux
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- Sign up new user
-- book appointment
+- **[Api implementation]**
+- **[Fetch api from backend]**
+- **[Two repo]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 
@@ -57,48 +115,73 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
 - A code editor
 - Ruby installed
 - Ruby on Rails installed
 - Postgresql installed
+- 
+
+In order to run this project you need:
+
+<!--
+Example command:
+```sh
+bundle install
+```
+```sh
+rails db:create
+```
+```sh
+rails db:migrate
+```
+```sh
+rails db:seed
+```
+ -->
 
 ### Setup
 
 Clone this repository to your desired folder:
-- https://github.com/eerapheal/reails_backend.git
-- [Frontend Link](https://github.com/eerapheal/frontends
-)
-```
- cd reails_backend
-```
 
+<!--
+Example commands:
+
+```sh
+  git clone https://github.com/eerapheal/rails_backends.git
+```
+```sh
+cd rails_backends
+```
+--->
 
 ### Install
-install this project with:
-```
-  bundle install
-  ```
-  ```
-  rails db:create
-  ```
-  ```
-  rails db:migrate
-```
 
-### Start 
-To start the application, run the following command
+Install this project with:
+bundle install
+
+<!--
+Example command:
+
+```sh
+  cd rails_backends
+  gem install
 ```
-rails server
+```sh
+bundle install
 ```
-### Run tests 
-```
-rspec
-```
+--->
+
 ### Usage
 
-To run the project, run `ruby <filename>` in your terminal
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,15 +195,14 @@ To run the project, run `ruby <filename>` in your terminal
 - Twitter: [@ekpenisiraphael](https://twitter.com/ekpenisiraphael)
 - LinkedIn: [ekpenisi-e-raphael-9678a221a](https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Set up payment stytem**
-- **Add UI**
+- [Display] **Display greetings]**
+- [Delete] **[Delete greetings]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,37 +210,52 @@ To run the project, run `ruby <filename>` in your terminal
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-##### Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
+
 - Fork it
 - Create your feature branch (git checkout -b my-new-feature)
 - Commit your changes (git commit -am 'Add some feature')
 - Push to the branch (git push origin my-new-feature)
 - Create new Pull Request.
 
-Feel free to check the [issues page](https://github.com/eerapheal/reails_backend/issues).
+Feel free to check the [issues page](https://github.com/eerapheal/rails_backends/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
-## ⭐ Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give it a star
+If you like this project please give it a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Acknownlagement -->
+<!-- ACKNOWLEDGEMENTS -->
 
-## 🤝 My  Acknownlagement
-- Micorverse team.
-- My partners.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+I would like to thank everyone that helped me to get here.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **[can i use this code]**
+
+  - [Yes, is MIT License]
+
+- **[how can i get the front end repo link]**
+
+  - [kindly click here](https://github.com/eerapheal/frontends/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/eerapheal/rails_backends/blob/Development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
